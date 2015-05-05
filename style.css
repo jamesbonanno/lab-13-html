@@ -1,0 +1,49 @@
+body{
+      font-family: sans-serif;
+}
+
+
+#intro {
+    border-right-width: 1px;
+}
+
+p {
+	color: #0000FF;
+	font-size: 12px;
+	text-decoration: line-through;
+	
+}
+
+
+.spotlight {
+	background-color: #FEFE22;
+}
+
+h1 {
+	color: #008000;
+	background-color: #888888;
+	text-transform: uppercase;
+	margin: 20px;
+	padding: 40px;
+	border-style: dashed;
+    border-width: 5px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+h2, p {
+	color: #008000;
+}
+
+a:hover{
+	color: purple;
+}
+
+body {
+	background: white url(http://i.ytimg.com/vi/1DC6RAr2xcM/maxresdefault.jpg) no-repeat top right;
+}
